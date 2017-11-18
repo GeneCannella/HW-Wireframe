@@ -1,6 +1,6 @@
 
 body {
-	width: 660px;
+	width: 960px;
 	background-color: #777;
 }
 
@@ -31,13 +31,13 @@ section, aside {
 }
 
 section {
-	width: 60%;
+	width: 495px;
 	float: left;
 }
 
 aside {
 	float: right;
-	width: 30%;
+	width: 425px;
 }
 
 article {
